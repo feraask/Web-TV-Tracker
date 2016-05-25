@@ -2,11 +2,11 @@ TV Tracker
 =================
 ####A TV show tracking website for managing your favorite TV shows and recommending new ones based on what you like using the full IMDB database.
 
-**Created By:**
-Feraas Khatib
-Gustavo Frankowiak
-Yu Guan
-Raghav Kochhar
+**Created By:**<br />
+Feraas Khatib <br />
+Gustavo Frankowiak <br />
+Yu Guan <br />
+Raghav Kochhar <br />
 
 **Features:**
 
