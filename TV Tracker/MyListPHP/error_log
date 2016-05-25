@@ -1,0 +1,66 @@
+[22-Apr-2013 13:33:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 2
+[22-Apr-2013 13:36:52 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 2
+[22-Apr-2013 13:36:54 America/Chicago] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 2
+[22-Apr-2013 13:44:11 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 6
+[22-Apr-2013 13:44:11 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 6
+[22-Apr-2013 13:46:14 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:46:14 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:46:14 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:46:14 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:48:29 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:48:29 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:48:29 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:48:29 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:04 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:04 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:08 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:08 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:08 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:08 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:09 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:09 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:54:09 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:54:09 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 7
+[22-Apr-2013 13:56:03 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:03 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:03 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:03 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:04 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:05 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:37 America/Chicago] PHP Warning:  include(base.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:37 America/Chicago] PHP Warning:  include(): Failed opening 'base.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 1
+[22-Apr-2013 13:56:37 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 13:56:37 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/MyListPHP/increment_show.php on line 9
+[22-Apr-2013 17:57:07 America/Chicago] PHP Warning:  Wrong parameter count for number_format() in /home/sqlsoldiers/public_html/MyListPHP/update_rating.php on line 7

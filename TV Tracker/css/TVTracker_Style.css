@@ -1,0 +1,276 @@
+/* Stylesheet */
+
+/* Additional Fonts */
+@font-face {
+	font-family:	logo;
+	src:		url('Mouse_Deco.ttf');
+}
+
+
+@font-face {
+	font-family: 	future;
+	src: 		url('FUTRFW.TTF');
+}
+
+
+/* Applies to every single element, used for testing */
+*
+{
+        //border:                 2px solid blue;
+}
+
+/* Applies to the entire HTML page essentially */
+body                    {
+        font-family:            sans-serif;
+        //letter-spacing:		-5px;
+        background-color:       white;
+        /*background-image:     url("");*/
+        background-attachment:  scroll;
+        background-position:    right top;
+        background-repeat:      no-repeat;
+        margin-top:             0;
+        margin-bottom:          0;
+        margin-left:            3px;
+        margin-right:           3px;
+        border:                 0;
+}
+
+p
+{
+	display:		inline;
+}
+
+table	{
+	border-collapse:collapse;
+	border-color:	black;
+}
+
+/* Table Header */
+th	{
+	color:			DodgerBlue;
+	background-color:	black;
+}
+
+/* Table Data Cell */
+td	{
+	text-align:		center;
+}
+
+tr:nth-child(even) {
+    background-color: dim-grey;
+}
+
+tr:nth-child(odd) {
+    background-color: #green;
+}
+
+
+/****************************** BEGIN HEADER STYLING **********************/
+
+/* Used for the container where the header information goes */
+.page_header            {
+        width:                  100%;
+        background-color:       black;
+        margin:                 auto;
+        padding:                0;
+        position:               relative;
+}
+
+/* Contains the actual header information */
+.header_content
+{
+        width:                  100%;
+        margin:                 auto;
+}
+
+/* Styling for the Title Text (i.e. "TV Tracker" most likely) */
+.main_title             {
+        display:                inline-block;
+        padding:                0;
+        font-family:            "Comic Sans MS", cursive, sans-serif;
+        color:                  white;
+        margin:                 10px 10px 0 2px;
+        position:               absolute;
+        font-size:              1.1em;
+}
+
+/* Styling for the Logo Image in the Header */
+.logo                   {
+        width:                  100px;
+        height:                 50px;
+        display:                inline-block;
+        margin-left:            130px;
+}
+
+/* Styling for the navigation bar lists */
+.nav_bar                {
+        position:               absolute;
+        list-style-type:        none;
+        display:                inline-block;
+        padding:                0 0 0 0;
+        margin:                 13px 0 0 0;
+}
+
+/* Styling for the navigation bar list on the right hand side */
+#right_nav              {
+        text-align:             right;
+        position:               static;
+        float:                  right;
+}
+
+/* Styling for an element in the nav bar list */
+.page_button            {
+        padding-top:            16px;
+        padding-bottom:         16px;
+        padding-left:           6px;
+        padding-right:          10px;
+        text-align:             center;
+        vertical-align:         middle;
+        display:                table-cell;
+        border-right:           1px solid #373737;
+        display:                inline;
+        color:                  gray;
+}
+
+#curr_page              {
+        color:                  black;
+        background-color:       DodgerBlue;
+}
+
+.page_button:hover
+{
+        color:                  black;
+        background-color:       DodgerBlue;
+}
+
+a, a:visited            {
+        font-size:              20px;  
+        text-decoration:        none;
+}
+
+/* Styling applied to the entire search bar form */
+.search_bar
+{
+        width:                  100%;
+        margin:                 auto;
+        padding:                5px 0;
+        margin-top:             5px;
+        background-color:       LightGray;
+}
+
+/* Styling applied specifically to the text box in the search bar */
+.search_box
+{
+        width:                  200px; 
+        background-color:	gray;
+        font-color:		white;
+        border-color:		gray;
+        margin:                 auto;
+        //margin-top:		auto;
+        //margin-bottom:	auto;
+        border-radius:          10px;
+     
+}
+
+input:focus {
+	font-color:	white;
+}
+
+/* Styling that applies specifically to the search button in the search bar */
+.search_button
+{
+       background-color:        cyan;
+       border-radius:           2px;
+}
+
+.search_button:active
+{
+        background-color:       Gray;
+}
+
+
+/****************************** BEGIN MAIN CONTENT STYLING **********************/
+
+/* Styling that applies to the main body of content between header and footer */
+.page_content           {
+        width:                  100%;
+        margin-left:            auto;
+        margin-right:           auto;
+        margin-bottom:          5px;
+        text-align:             center;
+        background-color:       white;
+        position:               relative;
+}
+
+/* ID used for pretty much anything that represents content in the main page */
+#main_content
+{
+        border-radius:          10px;
+        display:                inline-block;
+        margin-top:             5px;
+}
+
+
+/* Styling for main information on a page, this is where main content goes */
+.main_info
+{
+        width:                  75%;
+        height:                 auto;
+        min-height:		900px;
+        margin-right:           5px;
+        margin-left:            0;
+        border:                 1px solid LightGray;
+        position:		relative;
+}
+
+/* Styling for the side bar of a page */
+.side_bar
+{
+        width:                  24%;
+        height:                 auto;
+        min-height:		700px;
+        margin-right:           0;
+        background-color:       #EDEDED;
+        position:		relative;
+}
+
+/* Styling for content and data that goes into main/side bar */
+.sub_content
+{
+	position:		absolute;
+	margin:			auto;
+	width:			100%
+}
+
+.sub_content>table
+{
+	width:			auto;
+	margin:			auto;
+}
+
+.small_content
+{
+	position:		absolute;
+	display:		inline-block;
+}
+
+.small_content > *
+{
+	display:		inline-block;
+}
+
+/* Styling for TV Show results link */
+.show_link
+{
+	text-decoration:	underline;
+	font-size:		1em;
+}
+
+/****************************** BEGIN FOOTER STYLING **********************/
+
+.page_footer            {
+        width:                  100%;
+        height:                 75px;
+        background-color:       DimGray;
+        text-align:             center;
+}

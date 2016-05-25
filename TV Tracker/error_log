@@ -1,0 +1,386 @@
+[14-Mar-2013 21:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 17
+[14-Mar-2013 21:51:24 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 17
+[14-Mar-2013 21:51:38 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 17
+[14-Mar-2013 21:51:43 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 17
+[14-Mar-2013 21:53:23 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 21:53:29 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 21:55:14 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/sign_up.php on line 15
+[14-Mar-2013 21:56:10 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 15
+[14-Mar-2013 21:57:39 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 15
+[14-Mar-2013 21:57:59 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 15
+[14-Mar-2013 22:00:03 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 13
+[14-Mar-2013 22:00:38 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 13
+[14-Mar-2013 22:02:19 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 14
+[14-Mar-2013 22:05:04 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 14
+[14-Mar-2013 22:07:10 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 14
+[14-Mar-2013 22:08:49 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/sqlsoldiers/public_html/sign_up.php on line 14
+[14-Mar-2013 22:12:14 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:12:15 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:12:15 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:12:48 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:12:48 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:12:49 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:16:03 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 22:16:03 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:16:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 22:16:27 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:16:27 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 22:16:27 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:16:52 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:16:52 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:16:52 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:16:59 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:16:59 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/sqlsoldiers/public_html/sign_up.php on line 10
+[14-Mar-2013 22:16:59 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:17:21 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 22:17:21 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:17:47 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[14-Mar-2013 22:17:47 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/sqlsoldiers/public_html/sign_up.php on line 18
+[14-Mar-2013 22:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/search_users.php on line 15
+[14-Mar-2013 22:50:27 America/Chicago] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING) in /home/sqlsoldiers/public_html/search_users.php on line 15
+[14-Mar-2013 22:55:49 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/sqlsoldiers/public_html/search_users.php on line 32
+[14-Mar-2013 22:57:31 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/sqlsoldiers/public_html/search_users.php on line 21
+[14-Mar-2013 22:58:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/search_users.php on line 23
+[14-Mar-2013 23:02:00 America/Chicago] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sqlsoldiers/public_html/sign_in.php on line 16
+[14-Mar-2013 23:02:46 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/sqlsoldiers/public_html/sign_in.php on line 16
+[14-Mar-2013 23:03:21 America/Chicago] PHP Fatal error:  Call to undefined function mysqi_query() in /home/sqlsoldiers/public_html/sign_in.php on line 16
+[14-Mar-2013 23:22:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sqlsoldiers/public_html/search_users.php on line 19
+[15-Mar-2013 00:30:58 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/sign_up.php on line 3
+[15-Mar-2013 00:30:59 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sqlsoldiers/public_html/sign_up.php on line 11
+[15-Mar-2013 00:32:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/sqlsoldiers/public_html/sign_up.php on line 16
+[15-Mar-2013 00:44:11 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/delete_user.php on line 14
+[15-Mar-2013 00:45:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/delete_user.php on line 15
+[20-Apr-2013 16:54:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/TV_Search.php on line 60
+[20-Apr-2013 16:58:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/TV_Search.php on line 60
+[20-Apr-2013 16:59:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/TV_Search.php on line 60
+[20-Apr-2013 20:31:28 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[20-Apr-2013 20:31:33 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[20-Apr-2013 20:31:35 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[20-Apr-2013 20:31:40 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[20-Apr-2013 23:26:38 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:26:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:28:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:29:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:31:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:33:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/about.php:3) in /home/sqlsoldiers/public_html/base.php on line 2
+[20-Apr-2013 23:51:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/login.php on line 19
+[20-Apr-2013 23:51:42 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/login.php on line 19
+[20-Apr-2013 23:53:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/login.php on line 19
+[21-Apr-2013 00:48:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/sqlsoldiers/public_html/show_info.php on line 5
+[21-Apr-2013 02:52:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:52:57 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:53:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:53:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:53:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:56:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 25
+[21-Apr-2013 02:57:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 24
+[21-Apr-2013 02:57:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 23
+[21-Apr-2013 02:57:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 22
+[21-Apr-2013 02:57:31 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 22
+[21-Apr-2013 02:58:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 21
+[21-Apr-2013 02:58:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 20
+[21-Apr-2013 02:58:34 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 19
+[21-Apr-2013 02:58:45 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 18
+[21-Apr-2013 02:59:03 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 17
+[21-Apr-2013 03:47:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/show_info.php on line 64
+[21-Apr-2013 03:51:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$tv_info' (T_VARIABLE) in /home/sqlsoldiers/public_html/show_info.php on line 61
+[21-Apr-2013 03:51:08 America/Chicago] PHP Parse error:  syntax error, unexpected '$tv_info' (T_VARIABLE) in /home/sqlsoldiers/public_html/show_info.php on line 61
+[21-Apr-2013 15:18:19 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:18:25 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:18:28 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:18:31 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:33:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:33:55 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:46:31 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:47:32 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:47:46 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:47:47 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/login_register.php on line 30
+[21-Apr-2013 15:48:39 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sqlsoldiers/public_html/login_register.php on line 34
+[21-Apr-2013 15:48:41 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sqlsoldiers/public_html/login_register.php on line 34
+[21-Apr-2013 15:52:43 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sqlsoldiers/public_html/login_register.php on line 34
+[21-Apr-2013 15:53:57 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/sqlsoldiers/public_html/login_register.php on line 34
+[21-Apr-2013 15:54:12 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/sqlsoldiers/public_html/login_register.php on line 69
+[21-Apr-2013 16:49:47 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/sqlsoldiers/public_html/register.php on line 19
+[21-Apr-2013 16:54:23 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/search_results.php on line 16
+[21-Apr-2013 17:11:35 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/sqlsoldiers/public_html/base.php on line 42
+[21-Apr-2013 17:26:00 America/Chicago] PHP Fatal error:  Function name must be a string in /home/sqlsoldiers/public_html/register.php on line 37
+[21-Apr-2013 17:28:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'refresh' (T_STRING) in /home/sqlsoldiers/public_html/logout.php on line 2
+[21-Apr-2013 17:29:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'refresh' (T_STRING) in /home/sqlsoldiers/public_html/logout.php on line 4
+[21-Apr-2013 17:30:54 America/Chicago] PHP Warning:  include(base.php;): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/logout.php on line 1
+[21-Apr-2013 17:30:54 America/Chicago] PHP Warning:  include(): Failed opening 'base.php;' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/logout.php on line 1
+[21-Apr-2013 17:30:54 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/sqlsoldiers/public_html/logout.php on line 2
+[21-Apr-2013 18:00:14 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/sqlsoldiers/public_html/logout.php on line 1
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/iOS_login.php on line 4
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/sqlsoldiers/public_html/iOS_login.php on line 4
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/iOS_login.php on line 5
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/sqlsoldiers/public_html/iOS_login.php on line 5
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/iOS_login.php on line 6
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/sqlsoldiers/public_html/iOS_login.php on line 6
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/iOS_login.php on line 8
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/iOS_login.php on line 8
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_login.php on line 9
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/iOS_login.php on line 16
+[21-Apr-2013 19:10:50 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/iOS_login.php on line 16
+[21-Apr-2013 19:19:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 41
+[21-Apr-2013 19:31:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 42
+[21-Apr-2013 19:31:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 42
+[21-Apr-2013 19:41:46 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/sqlsoldiers/public_html/iOS_login.php on line 4
+[21-Apr-2013 19:43:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 56
+[21-Apr-2013 19:43:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 113
+[21-Apr-2013 19:49:59 America/Chicago] PHP Fatal error:  Function name must be a string in /home/sqlsoldiers/public_html/iOS_login.php on line 21
+[21-Apr-2013 19:51:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'username' (T_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/iOS_login.php on line 21
+[21-Apr-2013 19:58:06 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_login.php on line 21
+[21-Apr-2013 20:31:02 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/iOS_connect.php on line 8
+[21-Apr-2013 20:56:35 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/sqlsoldiers/public_html/register.php on line 51
+[21-Apr-2013 20:57:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/register.php on line 63
+[21-Apr-2013 20:58:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/register.php on line 42
+[21-Apr-2013 21:59:39 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:01:17 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:12 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:17 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:17 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:18 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:19 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:02:22 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:04:00 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:09:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 60
+[21-Apr-2013 22:13:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 60
+[21-Apr-2013 22:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 60
+[21-Apr-2013 22:22:26 America/Chicago] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/sqlsoldiers/public_html/base.php on line 1
+[21-Apr-2013 22:27:34 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 22:27:46 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 22:28:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 22:28:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 22:30:48 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 22:41:26 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_search.php on line 4
+[21-Apr-2013 22:46:05 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_search.php on line 4
+[21-Apr-2013 22:46:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 4
+[21-Apr-2013 22:49:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 4
+[21-Apr-2013 22:52:34 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 4
+[21-Apr-2013 22:53:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 6
+[21-Apr-2013 22:53:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 6
+[21-Apr-2013 22:54:02 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 6
+[21-Apr-2013 22:54:04 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 6
+[21-Apr-2013 22:55:19 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:55:19 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:55:40 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:55:40 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:55:40 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:55:40 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 50
+[21-Apr-2013 22:58:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$show' (T_VARIABLE) in /home/sqlsoldiers/public_html/iOS_search.php on line 5
+[21-Apr-2013 22:58:52 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 34
+[21-Apr-2013 22:58:52 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 34
+[21-Apr-2013 23:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/iOS_search.php on line 27
+[21-Apr-2013 23:01:48 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_search.php on line 27
+[21-Apr-2013 23:02:18 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 35
+[21-Apr-2013 23:02:18 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 35
+[21-Apr-2013 23:03:47 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:03:47 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:04:27 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:04:28 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:04:54 America/Chicago] PHP Warning:  include(iOS_disconnet.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:04:54 America/Chicago] PHP Warning:  include(): Failed opening 'iOS_disconnet.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_search.php on line 39
+[21-Apr-2013 23:07:33 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 31
+[21-Apr-2013 23:22:59 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/sqlsoldiers/public_html/add_show.php on line 21
+[21-Apr-2013 23:24:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/add_show.php on line 17
+[21-Apr-2013 23:24:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/add_show.php on line 17
+[21-Apr-2013 23:24:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 18
+[21-Apr-2013 23:24:15 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/add_show.php on line 21
+[21-Apr-2013 23:24:15 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/add_show.php on line 21
+[21-Apr-2013 23:24:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/add_show.php on line 17
+[21-Apr-2013 23:24:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/add_show.php on line 17
+[21-Apr-2013 23:24:44 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 18
+[21-Apr-2013 23:24:44 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'sqlsoldiers'@'localhost' (using password: NO) in /home/sqlsoldiers/public_html/add_show.php on line 21
+[21-Apr-2013 23:24:44 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/sqlsoldiers/public_html/add_show.php on line 21
+[22-Apr-2013 00:34:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'number' (T_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 65
+[22-Apr-2013 00:34:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'number' (T_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 65
+[22-Apr-2013 00:34:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'incrementValue' (T_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 65
+[22-Apr-2013 01:15:27 America/Chicago] PHP Parse error:  syntax error, unexpected '", "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 83
+[22-Apr-2013 01:16:17 America/Chicago] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 83
+[22-Apr-2013 01:16:18 America/Chicago] PHP Parse error:  syntax error, unexpected '","' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 83
+[22-Apr-2013 01:55:25 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 98
+[22-Apr-2013 01:56:14 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 98
+[22-Apr-2013 01:56:15 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 98
+[22-Apr-2013 12:28:12 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:28:38 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:28:49 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:28:50 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:28:58 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:29:11 America/Chicago] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 12:29:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/sqlsoldiers/public_html/my_shows.php on line 115
+[22-Apr-2013 16:31:32 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[22-Apr-2013 16:31:35 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[22-Apr-2013 16:31:39 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[22-Apr-2013 16:31:47 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[22-Apr-2013 16:57:42 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 106
+[22-Apr-2013 17:00:32 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 106
+[22-Apr-2013 17:00:43 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 106
+[22-Apr-2013 17:26:44 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/remove_show.php on line 4
+[22-Apr-2013 17:34:21 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/sqlsoldiers/public_html/my_shows.php on line 134
+[22-Apr-2013 17:48:15 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/sqlsoldiers/public_html/remove_show.php on line 10
+[22-Apr-2013 17:54:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 17:54:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 17:54:42 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 17:55:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 17:55:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 17:57:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/remove_show.php on line 18
+[22-Apr-2013 18:57:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 66
+[22-Apr-2013 18:58:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/show_info.php on line 66
+[22-Apr-2013 19:15:32 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sqlsoldiers/public_html/imdb.php:44) in /home/sqlsoldiers/public_html/base.php on line 2
+[22-Apr-2013 19:38:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home/sqlsoldiers/public_html/show_info.php on line 80
+[22-Apr-2013 23:09:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/recommend.php on line 32
+[22-Apr-2013 23:28:20 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/recommend.php on line 33
+[22-Apr-2013 23:29:24 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/recommend.php on line 33
+[22-Apr-2013 23:32:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 39
+[22-Apr-2013 23:48:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/sqlsoldiers/public_html/recommend.php on line 43
+[23-Apr-2013 01:02:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 01:02:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 01:02:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/recommend.php on line 72
+[23-Apr-2013 01:02:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/recommend.php on line 74
+[23-Apr-2013 01:02:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 85
+[23-Apr-2013 01:02:50 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 01:05:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 01:14:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/sqlsoldiers/public_html/iOS_info.php on line 81
+[23-Apr-2013 01:47:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/recommend.php on line 82
+[23-Apr-2013 01:47:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/recommend.php on line 84
+[23-Apr-2013 03:51:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 04:08:38 America/Chicago] PHP Warning:  include(IOS_imdb.php): failed to open stream: No such file or directory in /home/sqlsoldiers/public_html/iOS_info.php on line 2
+[23-Apr-2013 04:08:38 America/Chicago] PHP Warning:  include(): Failed opening 'IOS_imdb.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sqlsoldiers/public_html/iOS_info.php on line 2
+[23-Apr-2013 04:09:07 America/Chicago] PHP Fatal error:  Class 'Imdb' not found in /home/sqlsoldiers/public_html/iOS_info.php on line 76
+[23-Apr-2013 04:31:00 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_info.php on line 67
+[23-Apr-2013 05:47:42 America/Chicago] PHP Parse error:  syntax error, unexpected '[' in /home/sqlsoldiers/public_html/recommend.php on line 167
+[23-Apr-2013 05:58:38 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 26
+[23-Apr-2013 05:58:42 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 26
+[23-Apr-2013 05:59:15 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 26
+[23-Apr-2013 06:04:00 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/recommend.php on line 28
+[23-Apr-2013 06:22:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/sqlsoldiers/public_html/recommend.php on line 219
+[23-Apr-2013 06:23:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/recommend.php on line 221
+[23-Apr-2013 06:23:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/recommend.php on line 221
+[23-Apr-2013 06:23:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/recommend.php on line 221
+[23-Apr-2013 08:01:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/sqlsoldiers/public_html/iOS_recommend.php on line 82
+[23-Apr-2013 08:01:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 08:03:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 11:43:05 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 11:45:21 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:48:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 11:54:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 11:55:15 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 11:55:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:55:58 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:56:00 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:56:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:56:09 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:56:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:56:32 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:56:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 11:56:40 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:56:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 11:56:54 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:57:25 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:57:28 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:57:39 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 11:57:42 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:06 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:08 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 11:58:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 12:01:08 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 29
+[23-Apr-2013 12:01:17 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 12:01:53 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 12:03:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sqlsoldiers/public_html/recommend.php on line 212
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:03:55 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 12:04:28 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/add_show.php on line 16
+[23-Apr-2013 12:04:30 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/my_shows.php on line 107
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:10:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 42
+[23-Apr-2013 12:13:35 America/Chicago] PHP Fatal error:  Call to undefined function SetCacheability() in /home/sqlsoldiers/public_html/logout.php on line 4
+[23-Apr-2013 12:23:08 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/sqlsoldiers/public_html/iOS_login.php on line 11
+[23-Apr-2013 12:23:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sqlsoldiers/public_html/iOS_login.php on line 13
+[23-Apr-2013 12:32:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:33:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:33:47 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:33:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:36:44 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 12:36:44 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 12:37:04 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 12:37:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 12:38:41 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 64
+[23-Apr-2013 12:38:41 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 12:40:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:43:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'z_16' (T_STRING) in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 12:43:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 68
+[23-Apr-2013 12:44:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 68
+[23-Apr-2013 12:48:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 70
+[23-Apr-2013 12:49:01 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 70
+[23-Apr-2013 12:49:55 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 72
+[23-Apr-2013 12:50:48 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 72
+[23-Apr-2013 12:55:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 73
+[23-Apr-2013 12:56:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 73
+[23-Apr-2013 12:58:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 74
+[23-Apr-2013 13:02:30 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 74
+[23-Apr-2013 13:04:05 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 74
+[23-Apr-2013 14:28:10 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 65
+[23-Apr-2013 15:11:59 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:11:59 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:12:07 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:12:07 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:12:11 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:12:11 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:12:20 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:12:20 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:12:25 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:12:25 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:18:09 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:18:09 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 15:18:18 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 66
+[23-Apr-2013 15:18:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_recommend.php on line 69
+[23-Apr-2013 16:11:53 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/iOS_list.php on line 11
+[23-Apr-2013 16:24:39 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_list.php on line 19
+[23-Apr-2013 16:24:52 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_list.php on line 19
+[23-Apr-2013 16:29:12 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_list.php on line 19
+[23-Apr-2013 16:46:34 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sqlsoldiers/public_html/iOS_list.php on line 19
+[23-Apr-2013 16:53:14 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 142
+[23-Apr-2013 16:53:25 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:29 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:33 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:35 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:36 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:39 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[23-Apr-2013 16:53:47 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
+[28-Apr-2013 00:31:04 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/sqlsoldiers/public_html/recommend.php on line 142
+[28-Apr-2013 00:31:39 America/Chicago] PHP Warning:  mysql_connect(): Lost connection to MySQL server at 'reading initial communication packet', system error: 111 in /home/sqlsoldiers/public_html/base.php on line 9
